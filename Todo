@@ -1,0 +1,10 @@
+-Create env
+-install libraries
+-create a new project
+-add jsore urls to the urls file
+
+install vue cli
+create new vue project
+install axios ( library for talking  with the backend )
+install bulma ( css framework )
+
